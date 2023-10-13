@@ -2,7 +2,7 @@
 
 +!do_test : true <-
     println("[userA] Before creating the artifact");
-    makeArtifact("art", "ComplexArtifact", [], ArtId);
+    makeArtifact("art", "io.github.cakelier.ComplexArtifact", [], ArtId);
     focus(ArtId);
     println("[userA] Before executing the action");
     .wait(1000);

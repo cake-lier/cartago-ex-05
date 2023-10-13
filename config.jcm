@@ -1,4 +1,4 @@
-mas hello_world {
+mas exercise_05 {
     agent userA_agent
     agent userB_agent
 
