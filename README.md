@@ -1,4 +1,4 @@
-# JaCaMo by exercises — Exercise 05 — Structured Operations
+# CArtAgO by exercises — Exercise 05 — Structured Operations
 
 In this exercise, two agents share and concurrently use an artifact, which provides a "complex" operation.
 The operation is a "complex" one because it needs to be executed in two steps and,
